@@ -1,3 +1,3 @@
 [submodule "lib/executr"]
 	path = lib/executr
-	url = https://github.com/HubSpot/executr.git
+	url = http://github.com/HubSpot/executr.git
